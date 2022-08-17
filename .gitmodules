@@ -1,0 +1,21 @@
+[submodule "market-gateway"]
+	path = market-gateway
+	url = https://github.com/PRIB-IT/market-gateway.git
+[submodule "market-client-service"]
+	path = market-client-service
+	url = https://github.com/PRIB-IT/market-client-service.git
+[submodule "market-BFF"]
+	path = market-BFF
+	url = https://github.com/PRIB-IT/market-BFF.git
+[submodule "market-products-service"]
+	path = market-products-service
+	url = https://github.com/PRIB-IT/market-products-service.git
+[submodule "market-authorization"]
+	path = market-authorization
+	url = https://github.com/PRIB-IT/market-authorization.git
+[submodule "market-suggestion-service"]
+	path = market-suggestion-service
+	url = https://github.com/PRIB-IT/market-suggestion-service.git
+[submodule "market-UI"]
+	path = market-UI
+	url = https://github.com/PRIB-IT/market-UI.git
